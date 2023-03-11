@@ -2,3 +2,5 @@
 ./build
 
 poetry.lock
+
+__pycache__
